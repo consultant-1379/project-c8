@@ -1,0 +1,322 @@
+CNA,Number
+Shared Node Mediation,CNA 403 3144
+Shared FM Mediation,CNA 403 3010
+NED and TOP Mediation,CNA 403 3354
+Shared Language Transformation,CNA 403 3282
+Shared NetConf Mediation,CNA 403 3169
+Shared Node Discovery Mediation,CNA 403 3111
+Shared SSH/TLS Mediation,CNA 403 3355
+Shared FTP Mediation,CNA 403 3356
+Shared SNMP Mediation ,CNA 403 3357
+Shared PM Mediation,CNA 403 3009
+Mediation Router Policies ,CNA 403 3358
+Shared SS and RI Mediation,CNA 403 3406
+Stream Termination and Parsing,CNA 403 3414
+Shared NetLog Mediation,CNA 403 2827
+Shared TCIM Normalization,CNA 403 3450
+Shared IKEv2 Mediation,CNA 403 3548
+Shared Non-transactional Node Support,CNA 403 3595
+Shared CM Mediation,CNA 403 3634
+New Node Introduction Software Development Kit (NNI SDK),CNA 403 3453
+Shared CPP Inventory Mediation ,CNA 403 3012
+Shared CPP CM Mediation,CNA 403 3119
+ERBS PM Mediation,CNA 403 3121
+Shared CPP FM Mediation,CNA 403 3122
+CPP Security Mediation ,CNA 403 3123
+Shared CPP Mediation,CNA 403 3005
+Shared CPP PM Mediation,CNA 403 3359
+CPP Health Check Mediation,CNA 403 3383
+Shared CPP SS and RI Mediation,CNA 403 3407
+RNC Mediation,CNA 403 3547
+Shared CPP KPI Mediation,CNA 403 3597
+Shared CPP Transport Mediation,CNA 403 3627
+RadioTNode Mediation,CNA 403 3113
+Shared ECIM FM Mediation ,CNA 403 3116
+vPP Mediation ,CNA 403 3259
+vBGF Mediation,CNA 403 3317
+vEME Mediation,CNA 403 3318
+HSS-FE Mediation,CNA 403 3320
+vIP Works Mediation,CNA 403 3321
+vUPG Mediation,CNA 403 3322
+BSP Mediation,CNA 403 3325
+vMRF Mediation,CNA 403 3326
+SAPC Mediation,CNA 403 3284
+MSRBS_V1 Mediation,CNA 403 3271
+Shared ECIM CM Mediation,CNA 403 3104
+Shared ECIM/COM/CBA Mediation,CNA 403 3106
+Shared ECIM PM Mediation,CNA 403 3107
+SGSN-MME FM Mediation,CNA 403 3108
+SGSN-MME NetLog Mediation,CNA 403 3333
+MTAS Mediation,CNA 403 3287
+vSAPC Mediation - Not delivered ,CNA 403 3285
+CSCF Mediation,CNA 403 3288
+SBG Mediation ,CNA 403 3366
+vRC Mediation ,CNA 403 3367
+RnNode Mediation,CNA 403 3291
+vWCG Mediation,CNA 403 3360
+BSC Mediation,CNA 403 3279
+EPG Mediation ,CNA 403 3370
+RadioNode Mediation,CNA 403 3371
+SGSN-MME CM Mediation,CNA 403 3372
+SGSN-MME PM Mediation,CNA 403 3385
+SGSN-MME Security Mediation,CNA 403 3386
+DSC Mediation,CNA 403 3388
+ER6000 PM Mediation,CNA 403 3369
+WMG Mediation,CNA 403 3363
+Shared ECIM SS and RI Mediation,CNA 403 3408
+FrontHaul 6080 PM Mediation,CNA 403 3423
+VTF Radio Node Mediation,CNA 403 3443
+HLR-FE Mediation,CNA 403 3470
+Shared ECIM NetLog Mediation,CNA 403 3473
+CBRS Domain Proxy Mediation,CNA 403 3481
+5G RadioNode Mediation,CNA 403 3542
+DSE Mediation,CNA 403 3582
+vTIF Mediation,CNA 403 3590
+vNSDS Mediation ,CNA 403 3690
+NRMs Radio 4G,CNA 403 3002
+NRMs COM/CBA,CNA 403 3003
+NRMs IP Multimedia,CNA 403 3319
+NRMs Packet Core,CNA 403 3105
+NRMs Radio Multi Standard (MSRBS models),CNA 403 3246
+NRMs Radio 5G,CNA 403 3368
+NRMs Radio 2G,CNA 403 3278
+NRMs Radio 3G,CNA 403 3387
+NRMs Core,CNA 403 3389
+NRMs Transport Microwave,CNA 403 3390
+NRMs Transport Routers ,CNA 403 3391
+NRMs Transport Routers - non Ericsson,CNA 403 3392
+NRMs Site Transport,CNA 403 3394
+Shared NRMs ,CNA 403 3476
+NRMs Misc,CNA 403 3562
+BSC POC,CNA 403 3314
+ECM Mediation,CNA 403 3281
+STN Mediation,CNA 403 3353
+TSP Mediation ,CNA 403 3352
+Shared NFVO Mediation,CNA 403 3365
+RAN VNFM Mediation,CNA 403 3340
+Shared VNFM Mediation,CNA 403 3341
+ESA Mediation,CNA 403 3421
+ERS SN Mediation,CNA 403 3435
+APG Mediation,CNA 403 3448
+IS Mediation,CNA 403 2823
+ECEE Mediation,CNA 403 3490
+HDS Mediation,CNA 403 3572
+AFG Mediation,CNA 403 3612
+MINI-LINK Mediation,CNA 403 3109
+ER6000 Mediation,CNA 403 3110
+Shared Transport Nodes Mediation ,CNA 403 3263
+Fronthaul 6000 Mediation,CNA 403 3338
+Shared IPOS Mediation,CNA 403 3395
+CISCO Mediation,CNA 403 3420
+SSR Mediation ,CNA 403 3430
+EXTREME Switch Mediation ,CNA 403 3484
+Shared Junos Mediation,CNA 403 3575
+ECI MS Mediation ,CNA 403 3578
+IPOS OI Mediation,CNA 403 3546
+CBP OI Mediation,CNA 403 3569
+Shared EOI PM Mediation,CNA 403 3573
+PCC and PCG Mediation,CNA 403 3738
+GenericADP Mediation,CNA 403 3740
+Auto ID Management,CNA 403 3000
+Cell Consistency Check,CNA 403 3345
+Radio VNF LCM,CNA 403 3381
+Cell Management - Cell Provisioning ,CNA 403 3293
+CBRS Domain Proxy Service,CNA 403 3458
+Node Plugins ,CNA 403 3551
+CM Audit,CNA 403 3663
+Node and Cell Reparenting,CNA 403 3691
+Template and Network Connectivity Management,CNA 403 3130
+Transport NE Discovery,CNA 403 3132
+Transport CIM Management,CNA 403 3404
+Physical Link Management,CNA 403 3483
+WAN SDN Controller (northstar),CNA 403 3594
+Network Connectivity Management,CNA 403 3666
+Scripting Support - Integration Point,CNA 403 2997
+Software Hardware Mgmt (SHM) ,CNA 403 2981
+Bulk CM Rest NBI,CNA 403 3141
+ENM CLI (CM Editor CLI ),CNA 403 2979
+Import Export,CNA 403 2977
+Topology Browser,CNA 403 3289
+Network Explorer ,CNA 403 2993
+CM Revocation (Rollback),CNA 403 3275
+Data Migration,CNA 403 3270
+CM Events NBI,CNA 403 3055
+SMRS,CNA 403 3331
+Parameter Management,CNA 403 3399
+Add Node,CNA 403 3439
+Centralized License Server ,CNA 403 3424
+Configuration Templates Service,CNA 403 3477
+Topology Search,CNA 403 3614
+Topology Grouping,CNA 403 3616
+Network Services,CNA 403 3621
+Non live CM configuration ,CNA 403 3632
+CM Rule Engine,CNA 403 3140
+SHM Automated Software Upgrade Flows,CNA 403 3682
+Auto Provisioning,CNA 403 2978
+Private Network Lifecycle Management,CNA 403 3768
+ENIQ ENM Integration,CNA 403 2972
+PM Initiation and Collection,CNA 403 2970
+File Lookup NBI ,CNA 403 3301
+File Notification and Transfer,CNA 403 3808
+PM Event File decoder ,CNA 403 3070
+Network Health Monitor,CNA 403 2994
+Node Health Check,CNA 403 3147
+Autonomic Incident Management,CNA 403 3066
+Spectrum Measurement Management,CNA 403 3346
+Trace Management ,CNA 403 3674
+Monitoring & Troubleshooting Flows,CNA 403 3675
+FMX Adapter,CNA 403 2982
+FM Alarm Control and Display,CNA 403 2996
+Alarm and Event 3GPP,CNA 403 3034
+ENM FM BNSI NBI,CNA 403 3112
+Solr,CNA 403 3131
+Node Log Management,CNA 403 3260
+FMX,CNA 403 3159
+ENM FM SNMP NBI,CNA 403 3436
+Fault Management Command Line Interface ,CNA 403 3487
+Fault management service,CNA 403 3489
+Fault Management Emergency Service,CNA 403 3649
+Event Based Statistics,CNA 403 3148
+Event Stream NBI (ESN),CNA 403 3173
+Analytical Session Record,CNA 403 3416
+ASR Correlation,CNA 403 3418
+GSM Event Based Applications,CNA 403 3613
+Service Framework,CNA 403 3059
+Platform integration Bridge,CNA 403 3329
+JBOSS,CNA 403 3069
+JMS,CNA 403 3330
+Load Balancer,CNA 403 3097
+Modelling Framework ,CNA 403 3018
+Gossip Router,CNA 403 3396
+LVS Router,CNA 403 3419
+Server JRE,CNA 403 3541
+Camunda for JBOSS,CNA 403 3560
+Cloud Native Ingress Controller,CNA 403 3717
+Data Lifecycle Management Service,CNA 403 3068
+DPS,CNA 403 2555
+Historical Query Service,CNA 403 3154
+Stream infrastructure ,CNA 403 3415
+Activity Service,CNA 403 2987
+Event Processing Service (EPS) CDS,CNA 403 2973
+WorkFlow Service,CNA 403 2974
+Configuration Parameter Service,CNA 403 3292
+Key Value Store,CNA 403 3711
+UI SDK,CNA 403 2991
+Web Push,CNA 403 2999
+GEO Mapping - REMOVED in 17B,CNA 403 3067
+Presentation Services,CNA 403 2998
+Gateway,CNA 403 3100
+ENM Online Help,CNA 403 2992
+E-UI SDK (Portfolio Product),CNA 403 3599
+Application Software Development Kit (SDK),CNA 403 3454
+Ericsson Library Explorer(ELEX),CNA 403 3805
+Mediation Clients,CNA 403 3151
+Mediation Router,CNA 403 3152
+Mediation Service ,CNA 403 3153
+Mediation Core Models,CNA 403 3001
+Postgres/ DocumentDB,CNA 403 3795
+Elasticsearch/ SearchEngine,CNA 403 3796
+MySQL,CNA 403 3797
+NEO4J / GraphDB,CNA 403 3405
+Legacy Desktop,CNA 403 3375
+Scripting Environment,CNA 403 3633
+Backup and Restore,CNA 403 3020
+Netbackup Client,CNA 403 3409
+Restore Base Images ,CNA 403 3410
+Cloud Backup and Restore ,CNA 403 3411
+Data Diagnostic Collection,CNA 403 2648
+Data Diagnostic Collection,CNA 403 2648
+Launcher Admin Set,CNA 403 3102
+License Control and monitoring,CNA 403 2988
+OSS Monitoring Admin Set,CNA 403 3053
+Ericsson System Monitoring (ESM),CNA 403 3115
+Data Management Support,CNA 403 3272
+ENM Log Management,CNA 403 3264
+Availability Manager ,CNA 403 3337
+Ericsson Expert Analytics (EEA) Launcher,CNA 403 3462
+Log Collection Service,CNA 403 3716
+Credential Manager,CNA 403 3054
+Public Key Infrastructure,CNA 403 3056
+Node Security,CNA 403 3064
+Security Data Storage,CNA 403 3478
+Security Monitor Utilities,CNA 403 3807
+Access control (Security Services),CNA 403 2983
+Identity Management,CNA 403 3016
+Single Sign On - security management,CNA 403 2976
+System Security Configuration,CNA 403 3065
+VM Images,CNA 403 3280
+Access NAS,CNA 403 3335
+RHEL OS Management ,CNA 403 3400
+ENM Storage Management,CNA 403 3401
+HW Management,CNA 403 3412
+SFS for ENM,CNA 403 3413
+VIO Platform Management,CNA 403 3456
+VIO Platform Management,refer to CNA 403 3280
+SLES OS Management,CNA 403 3688
+Deployment Support Tooling,CNA 403 3063
+ENM Inst,CNA 403 3098
+Cloud Templates,CNA 403 3332
+ENM Deployment workflows,CNA 403 3373
+ENM Deployment Builder,CNA 403 3374
+Geo-Replication Data Management,CNA 403 3466
+EDP Auto deploy,CNA 403 3681
+Common Helm Chart Library,CNA 403 3708
+Container Services Support,CNA 403 3709
+Container Orchestration,CNA 403 3710
+Cloud Native Troubleshooting Utility,CNA 403 3735
+SLES Container OS,CNA 403 3715
+ENM Healthcheck Agent,CNA 403 3771
+LITP SDK ,CNA 403 2767
+LITP OS Service ,CNA 403 2762
+LITP Storage Support ,CNA 403 2763
+LITP Virtualisation suppport ,CNA 403 2764
+LITP OS Management,CNA 403 2765
+LITP Deployment Manager,CNA 403 2759
+LITP Command Line Interface,CNA 403 2760
+LITP Configuration support ,CNA 403 2761
+LITP System support,CNA 403 2766
+LITP Storage Support ,CNA 403 2896
+LITP Symantec filestore storage support,CNA 403 2919
+LITP License Management support,CNA 403 2920
+LITP JEE Container Support,CNA 403 2836
+LITP Veritas Availibility Management,CNA 403 2838
+LITP CMW Availability Management,CNA 403 2837
+LITP Base Software - 2.x,CNA 403 3313
+LITP Base Software - 2.x,CNA 403 3313
+VNF LCM,CNA 403 3313
+OMBS on Gen9,CNA 403 3303
+OMBS on linux,CNA 403 3626
+DE NetSim,CNA 403 4020
+DE SimDep,CNA 403 4021
+DE SimNet,CNA 403 4022
+DE GSM Simulations,CNA 403 3623
+DE CI-FWK,CNA 403 4000
+DE Cloud,CNA 403 4001
+DE IDE - Integrated Development Environment,CNA 403 4002
+DE Dependency Management,CNA 403 4003
+DE Metrics & Visualizations ,CNA 403 4004
+TAF Management System ,CNA 403 4010
+TAF Executor,CNA 403 4011
+TAF Schedular,CNA 403 4012
+TAF Registry,CNA 403 4013
+DE TAF Code,CNA 403 4014
+TAF Test Data Management ,CNA 403 3588
+Advanced MO Shell,CNA 403 3129
+Element Manager/Cabinet Viewer,CNA 403 3161
+Node CLI launch (Network element CLI launch),CNA 403 3061
+Winfiol,CNA 403 3276
+Shell Terminal,CNA 403 3376
+Operations Procedure Support (OPS),CNA 403 3474
+Node Command CLI,CNA 403 3625
+Release Independence Manager,CNA 403 3126
+Network Element Definition and Operations ,CNA 403 3471
+Log Viewer ,CNA 403 2607
+Network Viewer,CNA 403 3440
+Topology Relationships,CNA 403 3475
+CLI Framework,CNA 403 3480
+Flow Automation,CNA 403 3544
+NR-NSA System Custom Topology,CNA 403 3678
+AAT ENM Test Services ,CNA 403 3644
+AAT ENM Test Services ,CNA 403 3644
+Location Insights,CNA 403 3644
+Evolved Data Collection Architecture,CNA 403 3746

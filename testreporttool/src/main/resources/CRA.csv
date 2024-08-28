@@ -1,0 +1,49 @@
+CRA,Number
+Multi-Node Mediation,CRA 119 2242
+Shared Mediation Components ,CRA 119 2227
+CPP Nodes Mediation ,CRA 119 2181
+ECIM Nodes Mediation,CRA 119 2180
+Network Resource Models ,CRA 119 2228
+Misc Nodes Mediation,CRA 119 2229
+Transport Nodes Mediation,CRA 119 2230
+EOI Nodes Mediation,CRA 119 2274
+Radio Provisioning Subsystem,CRA 119 2191
+Transport Provisioning Subsystem,CRA 119 2182
+Cross Domain Provisioning Subsystem,CRA 119 2183
+Performance Configuration and Collection subsystem,CRA 119 2178
+Monitoring and Diagnostics Subsystem,CRA 119 2177
+Fault Management Subsystem,CRA 119 2176
+Performance Optimization Subsystem,CRA 119 2288
+Core Framework Subsystem,CRA 119 2187
+Application Data Subsystem,CRA 119 2143
+Common Services Subsystem,CRA 119 2186
+Application Presentation Subsystem,CRA 119 2031
+Mediation Framework,CRA 119 2135
+Database Subsystem,CRA 119 2332
+User Application Environment ,CRA 119 2262
+Disaster Recovery Subsystem,CRA 119 2096
+User Administration Applications,CRA 119 2173
+PKI Subsystem,CRA 119 2166
+Identity and Access Management,CRA 119 2141
+HW Infrastructure Management,CRA 119 2216
+Deployment Support,CRA 119 2165
+Cloud Native Management,CRA 119 2330
+LITP SDK,CRA 119 1871
+LITP CORE PLUGINS,CRA 119 1869
+LITP CORE,CRA 119 1868
+LITP Supplementary Plugins,CRA 119 1870
+Availabilty Management Plugins,CRA 119 1923
+LITP Software Delivery System - 2.x,CRA 119 1872
+VNF LCM ,CRA 119 2190
+OMBS ,CRA 119 2190
+DE NSS - Network Simulations Solutions,CRA 119 2502
+DE CI - Continuous Integration,CRA 119 2500
+TAF - Test Automation Framework,CRA 119 2501
+TAF Test Data Management System (TDM),CRA 119 2505
+ENM Software Development Kit,CRA 119 1917
+Network Element Management Tools,CRA 119 2260
+Shared Network Element Handling ,CRA 119 2257
+System Tools,CRA 119 2263
+Cloud Common ,CRA 119 2327
+AAT ENM Test Service,CRA 119 2328
+Evolved Data Collection Architecture,CRA 119 2331
